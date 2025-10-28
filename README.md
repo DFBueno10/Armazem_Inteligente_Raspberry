@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontrolad
 
 ## Descrição do Projeto
 
-O projeto consiste em um sistema embarcado para controle de três gavetas inteligentes com abertura por **RFID**, desenvolvido com o microcontrolador **Raspberry Pi Pico**. As gavetas possuem **solenóides** para travamento/abertura, e o sistema inclui ainda:
+O projeto consiste em três maletas em forma de gaveta, cuja liberação é realizada mediante reconhecimento facial gerido por um **Raspberry PI 5 8Gb RAM** e uma câmera modelo. A trava das maletas é realizada por meio de micro servo motores acioandos com auxílio de. O sistema também atualiza o status das gavetas em um dashboard online. 
 
 - **Teclado matricial** para comandos locais;
 - **Display OLED** para exibição de mensagens;
