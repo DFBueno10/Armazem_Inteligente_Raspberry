@@ -16,10 +16,8 @@ Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontrolad
 
 ## Descrição do Projeto
 
-O projeto consiste em três maletas em forma de gaveta, cuja liberação é realizada mediante reconhecimento facial gerido por um **Raspberry PI 5 8Gb RAM** e uma câmera modelo. A trava das maletas é realizada por meio de micro servo motores acioandos com auxílio de. O sistema também atualiza o status das gavetas em um dashboard online. 
+O projeto consiste em três maletas em forma de gaveta, cuja liberação é realizada mediante reconhecimento facial gerido por um **Raspberry PI 5 8Gb RAM** e uma câmera modelo. A trava das maletas é realizada por meio de micro servo motores acinados com auxílio de um pistão desenvolvido pelo grupo. O sistema também atualiza o status das gavetas em um dashboard online desenvolvido na plataforma Ubidots. 
 
-- **Teclado matricial** para comandos locais;
-- **Display OLED** para exibição de mensagens;
 - **LEDs e buzzer** para sinalização visual e sonora;
 - **Sensores ópticos** para detecção de estado (aberta/fechada) das gavetas.
 
