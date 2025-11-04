@@ -1,8 +1,10 @@
 # 🤖 Armazem_Inteligente_Raspberry
 Projeto de um armazém inteligente cujos pertences são liberados a partir do reconhecimento facial dos usuários.
 
+
 ## 🔐 Sistema de Gavetas Inteligentes com Abertura por Reconhecimento Facial
 Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontroladores e Sistemas Embarcados** do Instituto Mauá de Tecnologia.
+
 
 ## 👨‍💻 Integrantes da Equipe
 
@@ -17,6 +19,7 @@ Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontrolad
 O projeto consiste em **três maletas inteligentes** em formato de gaveta, cuja liberação é realizada por **reconhecimento facial** utilizando um **Raspberry Pi 5 (8GB RAM)** e uma **câmera NoIR com lente grande angular**. Cada maleta é trancada e destrancada por um **micro servo motor MG90S** acoplado a um **mecanismo de pistão**, projetado e impresso em 3D pelo grupo.
 
 Além da automação física, o sistema atualiza em tempo real o **status das gavetas (aberta/fechada)** em um **dashboard online** desenvolvido na plataforma **Ubidots**, proporcionando um monitoramento remoto e inteligente.
+
 
 ### 🔧 Funcionalidades embarcadas:
 
@@ -36,6 +39,7 @@ Além da automação física, o sistema atualiza em tempo real o **status das ga
 - **Aplicações especiais e críticas para guarda de instrumentação hospitalar**
 
 ---
+
 
 ## 📋 Requisitos do Sistema
 
@@ -57,19 +61,15 @@ Além da automação física, o sistema atualiza em tempo real o **status das ga
 
 
 ## 📝 Lista de Componentes
-
 <img width="917" height="469" alt="image" src="https://github.com/user-attachments/assets/38061ab1-aaba-4260-99e4-1755eeb5070a" />
 
 
 ## 🧩 Diagrama de Blocos
-
 <img width="966" height="667" alt="image" src="https://github.com/user-attachments/assets/a03520b3-005a-42d7-98f1-7deddf3a41b4" />
 
 
 ## 📥 Esquemáticos do Circuito Eletrônico
-
 Os diagramas do circuito eletrônico do projeto foram desenvolvidos utilizando o software **KiCad EDA 9.0.2**.
-
 
 Os esquemáticos incluem todos os componentes principais do sistema: Raspberry Pi Pico, RFID, LEDs de sinalização, drivers MOSFET, sensores ópticos, entre outros.
 
@@ -77,8 +77,8 @@ Os esquemáticos incluem todos os componentes principais do sistema: Raspberry P
 ## 📷 Visualização do Circuito Montado
 
 
-## 🛠️ Projeto Mecânico das Gavetas
 
+## 🛠️ Projeto Mecânico das Gavetas
 O projeto das peças mecânicas foi desenvolvido utilizando o software **Autodesk Fusion 360**, versão **2601.1.37 x86_64**, com plano **Estudante**. O ambiente de modelagem foi realizado no **Windows 11 Pro 24H2**.
 
 As peças foram concebidas visando **facilidade de fabricação e montagem**, sendo idealizadas para **impressão 3D** utilizando o material **PLA (Ácido Polilático)**.
@@ -104,12 +104,10 @@ As peças foram concebidas visando **facilidade de fabricação e montagem**, se
 
 
 ### 🔐🗄️ Imagem do Produto Final
-
 <img width="1321" height="1020" alt="image" src="https://github.com/user-attachments/assets/ce5a1057-022b-48f0-bfb4-d5501b6cb09c" />
 
 
 📊 **Dashboard Online - Monitoramento em Tempo Real**
-
 O sistema de gavetas inteligentes foi integrado à plataforma **Ubidots**, que permite o monitoramento remoto do status de cada gaveta em tempo real. Cada uma das três gavetas envia seu estado (aberta ou fechada) à nuvem, e os dados são exibidos por meio de gráficos circulares e tabelas de valores.
 
 Essa funcionalidade permite expandir o projeto para aplicações práticas com **gestão de ativos**, **controle de acesso remoto**, **sistemas de inventário** e **armários inteligentes**.
@@ -117,9 +115,12 @@ Essa funcionalidade permite expandir o projeto para aplicações práticas com *
 <img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/9b7a3fd6-6c7c-4bca-9275-4d1b693c768e" />
 
 
-## Vídeo Explicativo
+▶️ **Vídeo Explicativo**
 
-- [Link do Youtube](https://youtu.be/eFmRIbqSjfY
+Apresentação prática do projeto com demonstração do funcionamento das gavetas inteligentes, autenticação via reconhecimento facial, travamento/destravamento por micro servo motor, e monitoramento via dashboard online.
+
+[![Assista ao vídeo](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+
 
 ## ✅ Conclusão
 
