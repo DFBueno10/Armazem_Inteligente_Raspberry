@@ -63,7 +63,9 @@ Além da automação física, o sistema atualiza em tempo real o **status das ga
 <img width="917" height="469" alt="image" src="https://github.com/user-attachments/assets/38061ab1-aaba-4260-99e4-1755eeb5070a" />
 
 
-## Diagrama de Blocos
+## 🧩 Diagrama de Blocos
+
+<img width="1008" height="698" alt="image" src="https://github.com/user-attachments/assets/2d55a57c-8bde-4761-b153-3c114a605999" />
 
 
 ## 📥 Esquemáticos do Circuito Eletrônico
