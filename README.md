@@ -51,22 +51,18 @@ Este projeto tem aplicação potencial em **cofres de hotel**, **estações púb
 
 
 ## Diagrama de Blocos
-![image alt](https://github.com/angelopisaniello/cofre-rfid-pico/blob/c4062b0324a2e89cb6f8d55536021832ba76cf56/PROJETO_V5.png)
+
 
 ## 📥 Esquemáticos do Circuito Eletrônico
 
 Os diagramas do circuito eletrônico do projeto foram desenvolvidos utilizando o software **KiCad EDA 9.0.2**.
 
-- [Esquemático - Módulo de Controle](https://github.com/angelopisaniello/cofre-rfid-pico/blob/main/Esquematico_eletronico/proj1_sch01.pdf)
-- [Esquemático - Módulo de Potência](https://github.com/angelopisaniello/cofre-rfid-pico/blob/main/Esquematico_eletronico/proj1_sch02.pdf)
 
 Os esquemáticos incluem todos os componentes principais do sistema: Raspberry Pi Pico, RFID, LEDs de sinalização, drivers MOSFET, sensores ópticos, entre outros.
 
-![image alt](https://github.com/angelopisaniello/cofre-rfid-pico/blob/72e9cd8d6a3c8094ddc1b43018709e2de372c4bc/Esquematico_eletronico/Esquem%C3%A1tico.png).
+
 
 ## 📷 Visualização do Circuito Montado
-
-![image alt](https://github.com/angelopisaniello/cofre-rfid-pico/blob/dc86d4a58f1d83bd9ab3b703471dcb323ed62721/Esquematico_eletronico/Imagem_01.jpg).
 
 
 ## 🛠️ Projeto Mecânico das Gavetas
@@ -90,11 +86,14 @@ As peças foram concebidas visando **facilidade de fabricação e montagem**, se
 
 <img width="1242" height="889" alt="image" src="https://github.com/user-attachments/assets/12c5f9d8-5009-4cd5-a411-59635d6fbb28" />
 
+<img width="1246" height="892" alt="image" src="https://github.com/user-attachments/assets/d4f0f9e5-76c9-4eb7-b155-55f02be37698" />
+
+
 ### 🔐🗄️ Imagem do Produto Final
 
-![image alt](https://github.com/angelopisaniello/cofre-rfid-pico/blob/c5b64099f9fb3f7916a1c895a6baed32395207fb/Projeto%20Mec%C3%A2nico/Imagem_01.jpg)
-
 - [Arquivo do Projeto do Fusion 360](https://github.com/angelopisaniello/cofre-rfid-pico/blob/8d926f475f4df262f432c6a18744f179cbe58f7a/Projeto%20Mec%C3%A2nico/Angelo%20v4%20v16%20v1.f3d)
+
+
 
 ## Vídeo Explicativo
 
