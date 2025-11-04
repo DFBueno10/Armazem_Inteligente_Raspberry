@@ -60,7 +60,7 @@ Além da automação física, o sistema atualiza em tempo real o **status das ga
 
 ## 📝 Lista de Componentes
 
-<img width="917" height="469" alt="image" src="https://github.com/user-attachments/assets/9992eaeb-c0f3-489f-b8ab-44f368a1710d" />
+<img width="917" height="469" alt="image" src="https://github.com/user-attachments/assets/38061ab1-aaba-4260-99e4-1755eeb5070a" />
 
 
 ## Diagrama de Blocos
@@ -106,8 +106,7 @@ As peças foram concebidas visando **facilidade de fabricação e montagem**, se
 
 ### 🔐🗄️ Imagem do Produto Final
 
-- [Arquivo do Projeto do Fusion 360](https://github.com/angelopisaniello/cofre-rfid-pico/blob/8d926f475f4df262f432c6a18744f179cbe58f7a/Projeto%20Mec%C3%A2nico/Angelo%20v4%20v16%20v1.f3d)
-
+<img width="1321" height="1020" alt="image" src="https://github.com/user-attachments/assets/ce5a1057-022b-48f0-bfb4-d5501b6cb09c" />
 
 
 ## Vídeo Explicativo
@@ -116,7 +115,14 @@ As peças foram concebidas visando **facilidade de fabricação e montagem**, se
 
 ## ✅ Conclusão
 
-O projeto apresentado integra hardware, software embarcado e projeto mecânico para demonstrar um sistema de controle de gavetas inteligentes com autenticação por RFID. A solução proposta tem aplicações práticas em segurança e automação, e poderá ser expandida para novas funcionalidades como controle remoto via rede e sensores adicionais.
+O projeto desenvolvido integra de forma eficiente três pilares fundamentais da engenharia: hardware, software embarcado e projeto mecânico. A proposta inicial no T1, baseada em um sistema de gavetas inteligentes com autenticação por RFID, evoluiu significativamente ao incorporar tecnologias mais robustas, como o reconhecimento facial com Raspberry Pi 5, atualização em tempo real via dashboard (Ubidots) e melhorias no acionamento mecânico das travas.
+
+A solução apresentada reforça o potencial do sistema para aplicações práticas em ambientes que exigem segurança, rastreabilidade e controle de acesso — como cofres de hotel, armários hospitalares, pontos de recarga de dispositivos e armazéns inteligentes.
+
+O projeto também se destaca pela modularidade, permitindo futuras expansões, como a integração com comunicação Wi-Fi ou Bluetooth, uso de sensores adicionais e controle remoto. A integração com tags RFID específicas para instrumentação cirúrgica abre ainda novas possibilidades na área hospitalar, com foco em rastreamento e automação de inventário.
+
+O trabalho representou um avanço técnico significativo em relação ao primeiro projeto da disciplina, consolidando o aprendizado multidisciplinar dos integrantes e reforçando a importância da prototipação e documentação em projetos reais de engenharia.
+
 
 > Projeto desenvolvido para a disciplina EEN251 - Microcontroladores e Sistemas Embarcados | Instituto Mauá de Tecnologia.
 
