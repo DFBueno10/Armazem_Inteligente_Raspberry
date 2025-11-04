@@ -1,0 +1,23 @@
+import requests
+import datetime
+
+
+TOKEN = "BBUS-O9gbiSyONRtSLih9u5wy9SASYAtMKl"
+DEVICE_LABEL = "cofre"
+URL = f"https://industrial.api.ubidots.com/api/v1.6/devices/{DEVICE_LABEL}"
+HEADERS = {"X-Auth-Token": TOKEN, "Content-Type": "application/json"}
+
+def send_to_ubidots(data: dict):
+    try:
+        r = requests.post(URL, json=data, headers=HEADERS, timeout=5)
+        print(f"Status {r.status_code} | {r.text}")
+    except Exception as e:
+        print("Erro ao enviar:", e)
+
+# Exemplo de uso
+data = {
+    "Status_1": 0,
+    "Status_2": 0,
+    "Status_3": 1,
+}
+send_to_ubidots(data)
