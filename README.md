@@ -25,7 +25,7 @@ Além da automação física, o sistema atualiza em tempo real o **status das ga
 
 - 🧠 Reconhecimento facial com processamento local via Raspberry Pi 5;
 - 🔒 Trava física por servo motor + pistão mecânico impresso em PLA;
-- 🟢 Sinalização com **LEDs** para status visual e sonoro;
+- 🟢 Sinalização com **LEDs** para status visual;
 - 📡 Monitoramento online via **Ubidots**;
 - 📷 Visualização local via **display touchscreen de 7”**;
 - 📦 Arquitetura modular e expansível.
