@@ -88,10 +88,12 @@ As peças foram concebidas visando **facilidade de fabricação e montagem**, se
 - Licença gratuita para **uso educacional**, ideal para o desenvolvimento acadêmico.
 - Ambiente intuitivo, com recursos de **parametrização** e **colaboração em nuvem**.
 
+<img width="1269" height="910" alt="image" src="https://github.com/user-attachments/assets/fa9f59d2-b00a-4112-815e-dc471390bd63" />
+
+
 <img width="930" height="669" alt="image" src="https://github.com/user-attachments/assets/f901d707-93d6-40bd-8421-94fa84ff6d42" />
 
 
-![image alt](https://github.com/angelopisaniello/cofre-rfid-pico/blob/main/Folha_de_desenho_v2.png)
 
 ### 🔐🗄️ Imagem do Produto Final
 
