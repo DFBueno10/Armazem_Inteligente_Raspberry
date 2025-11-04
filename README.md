@@ -47,18 +47,12 @@ Além da automação física, o sistema atualiza em tempo real o **status das ga
 |--------|-------------------------------------------------------------------------------------------------------------------|-------------|
 | SR-01  | O sistema deve ser composto por módulos prontos e de fácil acesso para manutenção e expansão.                     | Obrigatório |
 | SR-02  | Controlar de forma independente a abertura das 3 gavetas por meio de autenticação facial.                         | Obrigatório |
-| SR-03  | Travar e destravar as gavetas utilizando micro servos de 12V.                                                     | Obrigatório |
+| SR-03  | Travar e destravar as gavetas utilizando micro servos.                                                            | Obrigatório |
 | SR-04  | Detectar o estado (aberta/fechada) de cada gaveta utilizando sensores de fim de curso.                            | Obrigatório |
 | SR-05  | Fornecer feedback visual utilizando LEDs indicadores.                                                             | Obrigatório |
-| SR-06  | Fornecer feedback visual por meio de um display local.                                                            | Obrigatório |
-| SR-07  | Exibir no display as informações de status do reconhecimento facial e abertura das gavetas.                       | Obrigatório |
-| SR-08  | Ser alimentado por fonte de 12V com corrente suficiente para acionamento simultâneo dos 3 micro servos.           | Obrigatório |
-| SR-09  | Ser montado em estrutura mecânica adequada (ex: gaveteiro impresso em 3D ou caixa segura para o mecanismo).       | Obrigatório |
-| SR-10  | Garantir proteção contra sobreaquecimento dos micro servos.                                                       | Obrigatório |
-| SR-11  | Permitir futuras expansões, como comunicação com sistemas externos (ex: Wi-Fi ou Bluetooth).                      | Desejável   |
-| SR-12  | Implementar modo de bloqueio total em caso de tentativa de acesso não autorizado às gavetas.                      | Desejável   |
-| SR-13  | Integrar sistema de controle por meio de tags RFID para rastreabilidade de instrumentação cirúrgica.              | Desejável   |
-
+| SR-06  | Ser montado em estrutura mecânica adequada (ex: gaveteiro impresso em 3D ou caixa segura para o mecanismo).       | Obrigatório |
+| SR-07  | Permitir futuras expansões, como comunicação com sistemas externos (ex: Wi-Fi ou Bluetooth).                      | Desejável   |
+| SR-08  | Implementar modo de bloqueio total em caso de tentativa de acesso não autorizado às gavetas.                      | Desejável   |
 
 ## 📝 Lista de Componentes
 <img width="917" height="469" alt="image" src="https://github.com/user-attachments/assets/38061ab1-aaba-4260-99e4-1755eeb5070a" />
