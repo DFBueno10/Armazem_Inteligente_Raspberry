@@ -2,7 +2,7 @@
 
 Projeto de um armazém inteligente cujos pertences são liberados a partir do reconhecimento facial dos usuários.
 
-# Sistema de Gavetas Inteligentes com Abertura por Reconhecimento Facial
+## 🔐 Sistema de Gavetas Inteligentes com Abertura por Reconhecimento Facial
 
 ## Descrição Geral
 Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontroladores e Sistemas Embarcados** do Instituto Mauá de Tecnologia.
