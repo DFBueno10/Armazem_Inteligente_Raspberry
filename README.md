@@ -1,6 +1,6 @@
 # Armazem_Inteligente_Raspberry
-Projeto de armazém inteligente cujos pertences são liberados a partir do reconhecimento facial dos usuários.
-# Sistema de Gavetas Inteligentes com Abertura por RFID
+Projeto de um armazém inteligente cujos pertences são liberados a partir do reconhecimento facial dos usuários.
+# Sistema de Gavetas Inteligentes com Abertura por Reconhecimento Facial
 
 ## Descrição Geral
 Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontroladores e Sistemas Embarcados** do Instituto Mauá de Tecnologia.
@@ -16,12 +16,26 @@ Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontrolad
 
 ## Descrição do Projeto
 
-O projeto consiste em três maletas em forma de gaveta, cuja liberação é realizada mediante reconhecimento facial gerido por um **Raspberry PI 5 8Gb RAM** e uma câmera modelo. A trava das maletas é realizada por meio de micro servo motores acinados com auxílio de um pistão desenvolvido pelo grupo. O sistema também atualiza o status das gavetas em um dashboard online desenvolvido na plataforma Ubidots. 
+O projeto consiste em **três maletas inteligentes** em formato de gaveta, cuja liberação é realizada por **reconhecimento facial** utilizando um **Raspberry Pi 5 (8GB RAM)** e uma **câmera NoIR com lente grande angular**. Cada maleta é trancada e destrancada por um **micro servo motor MG90S** acoplado a um **mecanismo de pistão**, projetado e impresso em 3D pelo grupo.
 
-- **LEDs e buzzer** para sinalização visual e sonora;
-- **Sensores ópticos** para detecção de estado (aberta/fechada) das gavetas.
+Além da automação física, o sistema atualiza em tempo real o **status das gavetas (aberta/fechada)** em um **dashboard online** desenvolvido na plataforma **Ubidots**, proporcionando um monitoramento remoto e inteligente.
 
-Este projeto tem aplicação potencial em **cofres de hotel**, **estações públicas de recarga de celular** ou **armários inteligentes**.
+### 🔧 Funcionalidades embarcadas:
+
+- 🧠 Reconhecimento facial com processamento local via Raspberry Pi 5;
+- 🔒 Trava física por servo motor + pistão mecânico impresso em PLA;
+- 🟢 Sinalização com **LEDs** para status visual e sonoro;
+- 📡 Monitoramento online via **Ubidots**;
+- 📷 Visualização local via **display touchscreen de 7”**;
+- 📦 Arquitetura modular e expansível.
+
+### 💡 Este sistema pode ser aplicado em:
+
+- **Cofres de hotel**
+- **Armários públicos com controle de acesso**
+- **Estações de recarga de celular**
+- **Espaços de coworking ou armazenamento seguro**
+- **Aplicações especiais e críticas para guarda de instrumentação hospitalar**
 
 ---
 
@@ -47,7 +61,7 @@ Este projeto tem aplicação potencial em **cofres de hotel**, **estações púb
 
 ## 📝 Lista de Componentes
 
-![image](https://github.com/angelopisaniello/cofre-rfid-pico/blob/c823bec8c20731a69ab787b1f216f1d6f6b832eb/Esquematico_eletronico/Lista%20de%20Material_rev1.png)
+<img width="917" height="469" alt="image" src="https://github.com/user-attachments/assets/9992eaeb-c0f3-489f-b8ab-44f368a1710d" />
 
 
 ## Diagrama de Blocos
