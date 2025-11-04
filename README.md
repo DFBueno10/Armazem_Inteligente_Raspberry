@@ -88,8 +88,7 @@ As peças foram concebidas visando **facilidade de fabricação e montagem**, se
 - Licença gratuita para **uso educacional**, ideal para o desenvolvimento acadêmico.
 - Ambiente intuitivo, com recursos de **parametrização** e **colaboração em nuvem**.
 
-<img width="1269" height="910" alt="image" src="https://github.com/user-attachments/assets/fa9f59d2-b00a-4112-815e-dc471390bd63" />
-
+<img width="1242" height="889" alt="image" src="https://github.com/user-attachments/assets/12c5f9d8-5009-4cd5-a411-59635d6fbb28" />
 
 ### 🔐🗄️ Imagem do Produto Final
 
