@@ -1,5 +1,7 @@
-# Armazem_Inteligente_Raspberry
+# 🤖 Armazem_Inteligente_Raspberry
+
 Projeto de um armazém inteligente cujos pertences são liberados a partir do reconhecimento facial dos usuários.
+
 # Sistema de Gavetas Inteligentes com Abertura por Reconhecimento Facial
 
 ## Descrição Geral
@@ -65,7 +67,7 @@ Além da automação física, o sistema atualiza em tempo real o **status das ga
 
 ## 🧩 Diagrama de Blocos
 
-<img width="1008" height="698" alt="image" src="https://github.com/user-attachments/assets/2d55a57c-8bde-4761-b153-3c114a605999" />
+<img width="966" height="667" alt="image" src="https://github.com/user-attachments/assets/a03520b3-005a-42d7-98f1-7deddf3a41b4" />
 
 
 ## 📥 Esquemáticos do Circuito Eletrônico
@@ -74,7 +76,6 @@ Os diagramas do circuito eletrônico do projeto foram desenvolvidos utilizando o
 
 
 Os esquemáticos incluem todos os componentes principais do sistema: Raspberry Pi Pico, RFID, LEDs de sinalização, drivers MOSFET, sensores ópticos, entre outros.
-
 
 
 ## 📷 Visualização do Circuito Montado
