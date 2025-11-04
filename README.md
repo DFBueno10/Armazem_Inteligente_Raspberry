@@ -1,10 +1,7 @@
 # 🤖 Armazem_Inteligente_Raspberry
-
 Projeto de um armazém inteligente cujos pertences são liberados a partir do reconhecimento facial dos usuários.
 
 ## 🔐 Sistema de Gavetas Inteligentes com Abertura por Reconhecimento Facial
-
-## Descrição Geral
 Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontroladores e Sistemas Embarcados** do Instituto Mauá de Tecnologia.
 
 ## 👨‍💻 Integrantes da Equipe
@@ -16,8 +13,7 @@ Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontrolad
 | Daniel F. Soares         | 22.01298-2   |
 
 
-## Descrição do Projeto
-
+## 📋 Descrição do Projeto
 O projeto consiste em **três maletas inteligentes** em formato de gaveta, cuja liberação é realizada por **reconhecimento facial** utilizando um **Raspberry Pi 5 (8GB RAM)** e uma **câmera NoIR com lente grande angular**. Cada maleta é trancada e destrancada por um **micro servo motor MG90S** acoplado a um **mecanismo de pistão**, projetado e impresso em 3D pelo grupo.
 
 Além da automação física, o sistema atualiza em tempo real o **status das gavetas (aberta/fechada)** em um **dashboard online** desenvolvido na plataforma **Ubidots**, proporcionando um monitoramento remoto e inteligente.
@@ -110,6 +106,15 @@ As peças foram concebidas visando **facilidade de fabricação e montagem**, se
 ### 🔐🗄️ Imagem do Produto Final
 
 <img width="1321" height="1020" alt="image" src="https://github.com/user-attachments/assets/ce5a1057-022b-48f0-bfb4-d5501b6cb09c" />
+
+
+📊 **Dashboard Online - Monitoramento em Tempo Real**
+
+O sistema de gavetas inteligentes foi integrado à plataforma **Ubidots**, que permite o monitoramento remoto do status de cada gaveta em tempo real. Cada uma das três gavetas envia seu estado (aberta ou fechada) à nuvem, e os dados são exibidos por meio de gráficos circulares e tabelas de valores.
+
+Essa funcionalidade permite expandir o projeto para aplicações práticas com **gestão de ativos**, **controle de acesso remoto**, **sistemas de inventário** e **armários inteligentes**.
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/9b7a3fd6-6c7c-4bca-9275-4d1b693c768e" />
 
 
 ## Vídeo Explicativo
