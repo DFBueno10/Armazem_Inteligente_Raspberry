@@ -112,7 +112,7 @@ def Retirar_Gaveta(nome):
         Fechar(nome)
         vermelhos[nome].off()
         verdes[nome].on()
-        #Enviar_Status_Gaveta(nome, 1)
+        Enviar_Status_Gaveta(nome, 1)
     else:
         print("Gaveta Retirada")
         vermelhos[nome].on()
@@ -204,7 +204,7 @@ for nome in nomes:
     vermelhos[nome].off()
     Fechar(nome)
     #servos[nome].angle = 0
-    #Enviar_Status_Gaveta(nome, 1)
+    Enviar_Status_Gaveta(nome, 1)
     sleep(0.5)
 
 start_time = time()
@@ -241,7 +241,7 @@ while True:
         if detectado and status[nome]: # Detectou e a gaveta esta no lugar
             Retirar_Gaveta(nome) # Libera a gaveta correspondente
         last_time = last_time - TD
-        sleep(0.3)
+        sleep(0.12)
     for nome in nomes:
         if status[nome] == 0 and chaves[nome].is_pressed: # Alguem colocou a gaveta no lugar
             print("Obrigado, ", nome)
