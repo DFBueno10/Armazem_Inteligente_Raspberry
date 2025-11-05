@@ -62,16 +62,6 @@ Além da automação física, o sistema atualiza em tempo real o **status das ga
 <img width="966" height="667" alt="image" src="https://github.com/user-attachments/assets/a03520b3-005a-42d7-98f1-7deddf3a41b4" />
 
 
-## 📥 Esquemáticos do Circuito Eletrônico
-Os diagramas do circuito eletrônico do projeto foram desenvolvidos utilizando o software **KiCad EDA 9.0.2**.
-
-Os esquemáticos incluem todos os componentes principais do sistema: Raspberry Pi Pico, RFID, LEDs de sinalização, drivers MOSFET, sensores ópticos, entre outros.
-
-
-## 📷 Visualização do Circuito Montado
-
-
-
 ## 🛠️ Projeto Mecânico das Gavetas
 O projeto das peças mecânicas foi desenvolvido utilizando o software **Autodesk Fusion 360**, versão **2601.1.37 x86_64**, com plano **Estudante**. O ambiente de modelagem foi realizado no **Windows 11 Pro 24H2**.
 
