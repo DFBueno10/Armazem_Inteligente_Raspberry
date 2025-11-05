@@ -91,11 +91,11 @@ As peças foram concebidas visando **facilidade de fabricação e montagem**, se
 <img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/c4e249c2-02d3-419b-aea2-039bd5217a3c" />
 
 
-### 🔐🗄️ Imagem do Produto Final
+## 🔐🗄️ Imagem do Produto Final
 <img width="1321" height="1020" alt="image" src="https://github.com/user-attachments/assets/ce5a1057-022b-48f0-bfb4-d5501b6cb09c" />
 
 
-📊 **Dashboard Online - Monitoramento em Tempo Real**
+## 📊 Dashboard Online - Monitoramento em Tempo Real
 O sistema de gavetas inteligentes foi integrado à plataforma **Ubidots**, que permite o monitoramento remoto do status de cada gaveta em tempo real. Cada uma das três gavetas envia seu estado (aberta ou fechada) à nuvem, e os dados são exibidos por meio de gráficos circulares e tabelas de valores.
 
 Essa funcionalidade permite expandir o projeto para aplicações práticas com **gestão de ativos**, **controle de acesso remoto**, **sistemas de inventário** e **armários inteligentes**.
@@ -103,20 +103,13 @@ Essa funcionalidade permite expandir o projeto para aplicações práticas com *
 <img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/9b7a3fd6-6c7c-4bca-9275-4d1b693c768e" />
 
 
-▶️ **Vídeo Explicativo**
+## 🎥 Vídeo Explicativo
 
 Apresentação prática do projeto com demonstração do funcionamento das gavetas inteligentes, autenticação via reconhecimento facial, travamento/destravamento por micro servo motor, e monitoramento via dashboard online.
 
-🎥 [Clique aqui para assistir ao vídeo explicativo](https://github.com/DFBueno10/Armazem_Inteligente_Raspberry/raw/49148ff480a725034862d3533b315d37d59a1ea6/V%C3%ADdeo/Armazem_Inteligente.mp4)
-
-## 🎥 Vídeo Explicativo
-
 O vídeo abaixo apresenta o funcionamento do sistema de gavetas inteligentes, destacando o reconhecimento facial, acionamento dos servos e atualização em tempo real no dashboard da Ubidots.
 
-▶️ [Clique aqui para assistir ao vídeo (formato .mp4)](https://github.com/DFBueno10/Armazem_Inteligente_Raspberry/raw/49148ff480a725034862d3533b315d37d59a1ea6/V%C3%ADdeo/Armazem_Inteligente.mp4)
-
-
-[![Assista ao vídeo]([https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg](https://youtu.be/ZRPwrE82Ogo))]([https://www.youtube.com/watch?v=SEU_VIDEO_ID](https://youtu.be/ZRPwrE82Ogo))
+- [Link do Youtube](https://www.youtube.com/watch?v=SEU_VIDEO_ID](https://youtu.be/ZRPwrE82Ogo)
 
 
 ## ✅ Conclusão
@@ -131,4 +124,3 @@ O trabalho representou um avanço técnico significativo em relação ao primeir
 
 
 > Projeto desenvolvido para a disciplina EEN251 - Microcontroladores e Sistemas Embarcados | Instituto Mauá de Tecnologia.
-
