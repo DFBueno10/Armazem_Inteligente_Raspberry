@@ -107,6 +107,8 @@ Essa funcionalidade permite expandir o projeto para aplicações práticas com *
 
 Apresentação prática do projeto com demonstração do funcionamento das gavetas inteligentes, autenticação via reconhecimento facial, travamento/destravamento por micro servo motor, e monitoramento via dashboard online.
 
+https://github.com/DFBueno10/Armazem_Inteligente_Raspberry/tree/49148ff480a725034862d3533b315d37d59a1ea6/V%C3%ADdeo
+
 [![Assista ao vídeo](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
 
 
