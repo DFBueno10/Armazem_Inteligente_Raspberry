@@ -107,7 +107,14 @@ Essa funcionalidade permite expandir o projeto para aplicações práticas com *
 
 Apresentação prática do projeto com demonstração do funcionamento das gavetas inteligentes, autenticação via reconhecimento facial, travamento/destravamento por micro servo motor, e monitoramento via dashboard online.
 
-https://github.com/DFBueno10/Armazem_Inteligente_Raspberry/tree/49148ff480a725034862d3533b315d37d59a1ea6/V%C3%ADdeo
+🎥 [Clique aqui para assistir ao vídeo explicativo](https://github.com/DFBueno10/Armazem_Inteligente_Raspberry/raw/49148ff480a725034862d3533b315d37d59a1ea6/V%C3%ADdeo/Armazem_Inteligente.mp4)
+
+## 🎥 Vídeo Explicativo
+
+O vídeo abaixo apresenta o funcionamento do sistema de gavetas inteligentes, destacando o reconhecimento facial, acionamento dos servos e atualização em tempo real no dashboard da Ubidots.
+
+▶️ [Clique aqui para assistir ao vídeo (formato .mp4)](https://github.com/DFBueno10/Armazem_Inteligente_Raspberry/raw/49148ff480a725034862d3533b315d37d59a1ea6/V%C3%ADdeo/Armazem_Inteligente.mp4)
+
 
 [![Assista ao vídeo](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
 
