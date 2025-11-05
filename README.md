@@ -116,7 +116,7 @@ O vídeo abaixo apresenta o funcionamento do sistema de gavetas inteligentes, de
 ▶️ [Clique aqui para assistir ao vídeo (formato .mp4)](https://github.com/DFBueno10/Armazem_Inteligente_Raspberry/raw/49148ff480a725034862d3533b315d37d59a1ea6/V%C3%ADdeo/Armazem_Inteligente.mp4)
 
 
-[![Assista ao vídeo](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+[![Assista ao vídeo]([https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg](https://youtu.be/ZRPwrE82Ogo))]([https://www.youtube.com/watch?v=SEU_VIDEO_ID](https://youtu.be/ZRPwrE82Ogo))
 
 
 ## ✅ Conclusão
