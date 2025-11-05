@@ -1,25 +1,29 @@
-# 🤖 Armazem_Inteligente_Raspberry
-Projeto de um armazém inteligente cujos pertences são liberados a partir do reconhecimento facial dos usuários.
+# 🤖 Sistema de Gavetas Inteligentes com Abertura por Reconhecimento Facial
 
+Projeto de um armazém inteligente, em formato de maletas, cujos pertences são liberados a partir do reconhecimento facial dos usuários.  
+Este repositório faz parte do projeto **Armazem_Inteligente_Raspberry**, desenvolvido na disciplina **EEN251 – Microcontroladores e Sistemas Embarcados**, do Instituto Mauá de Tecnologia.
 
-## 🔐 Sistema de Gavetas Inteligentes com Abertura por Reconhecimento Facial
-Este projeto foi desenvolvido como parte da disciplina **EEN251 - Microcontroladores e Sistemas Embarcados** do Instituto Mauá de Tecnologia.
-
+---
 
 ## 👨‍💻 Integrantes da Equipe
 
-| Nome                     | RA           |
-|--------------------------|--------------|
-| Angelo Pisaniello Junior | 12.95003-3   |
-| Danilo Di Fábio Bueno    | 22.00028-3   |
-| Daniel F. Soares         | 22.01298-2   |
+A equipe é composta por alunos do curso de Engenharia Eletrônica do IMT, responsáveis por todas as etapas de desenvolvimento:
 
+| Nome                       | RA         |
+|----------------------------|------------|
+| Angelo Pisaniello Junior   | 12.95003-3 |
+| Danilo Di Fábio Bueno      | 22.00028-3 |
+| Daniel F. Soares           | 22.01298-2 |
+
+---
 
 ## 📋 Descrição do Projeto
-O projeto consiste em **três maletas inteligentes** em formato de gaveta, cuja liberação é realizada por **reconhecimento facial** utilizando um **Raspberry Pi 5 (8GB RAM)** e uma **câmera NoIR com lente grande angular**. Cada maleta é trancada e destrancada por um **micro servo motor MG90S** acoplado a um **mecanismo de pistão**, projetado e impresso em 3D pelo grupo.
 
-Além da automação física, o sistema atualiza em tempo real o **status das gavetas (aberta/fechada)** em um **dashboard online** desenvolvido na plataforma **Ubidots**, proporcionando um monitoramento remoto e inteligente.
+O projeto consiste em **três maletas inteligentes** em formato de gaveta, cuja liberação é realizada por **reconhecimento facial**, utilizando um **Raspberry Pi 5 (8GB RAM)** e uma **câmera NoIR com lente grande angular**.
 
+Cada maleta é trancada e destrancada por um **micro servo motor MG90S**, acoplado a um **mecanismo de pistão** desenvolvido e impresso em 3D pelo grupo.
+
+Além da automação física, o sistema atualiza em tempo real o **status de abertura das gavetas** (aberta/fechada), por meio de um **dashboard online** desenvolvido na plataforma **Ubidots**, permitindo **monitoramento remoto e inteligente**.
 
 ### 🔧 Funcionalidades embarcadas:
 
