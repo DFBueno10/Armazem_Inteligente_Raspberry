@@ -59,7 +59,7 @@ Além da automação física, o sistema atualiza em tempo real o **status das ga
 
 
 ## 🧩 Diagrama de Blocos
-<img width="966" height="667" alt="image" src="https://github.com/user-attachments/assets/a03520b3-005a-42d7-98f1-7deddf3a41b4" />
+<img width="1000" height="691" alt="image" src="https://github.com/user-attachments/assets/3b99ee60-6b0c-40bf-97e2-d6b8ec3a4d61" />
 
 
 ## 🛠️ Projeto Mecânico das Gavetas
