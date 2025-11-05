@@ -109,7 +109,7 @@ Apresentação prática do projeto com demonstração do funcionamento das gavet
 
 O vídeo abaixo apresenta o funcionamento do sistema de gavetas inteligentes, destacando o reconhecimento facial, acionamento dos servos e atualização em tempo real no dashboard da Ubidots.
 
-- [Link do Youtube](https://www.youtube.com/watch?v=SEU_VIDEO_ID](https://youtu.be/ZRPwrE82Ogo)
+- [Link do Youtube](https://youtu.be/ZRPwrE82Ogo](https://youtu.be/ZRPwrE82Ogo))
 
 
 ## ✅ Conclusão
